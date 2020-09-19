@@ -3,7 +3,7 @@
 Fractal snowflake based on Koch construction.
 Starting with an "initiator" of a triangle each line of the traingle is replaced with a "generator."
 Generator shape in this example creates an equilateral triangle at middle third of line segment but deletes section that would overlap.  Creating a shape 
-like:  "__/\__"
+like:  "__/\\__"
 Each generation replaces each existing line with the generator shape.  
 
 Intially there will be an equalateral triangle.  Each mouse click with make the next generation of the snowflake.
