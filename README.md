@@ -6,7 +6,7 @@ Generator shape in this example creates an equilateral triangle at middle third 
 like:  "__/\\__"
 Each generation replaces each existing line with the generator shape. JPEGs of first three generations are in repo.  
 
-Intially there will be an equalateral triangle.  Each mouse click with make the next generation of the snowflake.
+Intially there will be an equalateral triangle.  Each mouse click will make the next generation of the snowflake.
 
 Design is described in The Algorithmic Beauty Of Plants  by Przemyslaw Prusinkiewicz and Aristid Lindenmayer.
 link to PDF of book: 
