@@ -1,5 +1,7 @@
 # kochSnowflake
 
+Uses P5.js library and html canvas
+
 Fractal snowflake based on Koch construction.
 Starting with an "initiator" of a triangle each line of the traingle is replaced with a "generator."
 Generator shape in this example creates an equilateral triangle at middle third of line segment but deletes section that would overlap.  Creating a shape 
